@@ -5,6 +5,12 @@
    background-color: rgba(114, 4, 68, 0.747);
    text-decoration-color: rgb(255, 255, 255);
    justify-items: center;
+   
+}
+*{
+   border-radius: 5px; 
+   margin: 15px;
+   padding: 5px;
 }
 
 #pq{
@@ -53,7 +59,6 @@ nav ul li {
 
  h1 {
     color: rgba(252, 252, 252, 0.801)
-    
  }
 
  h2 {
@@ -70,11 +75,11 @@ nav ul li {
 
  section {
     display: grid;
-    place-items: center
-    align-items: center
-    min-heught: 100vh;
-
+    place-items: center;
+    align-items: center;
+   padding: auto;
  }
     
+
  
  
