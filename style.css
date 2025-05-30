@@ -2,5 +2,51 @@
 
 /* Variáveis */
 :root {
-    --primary-color:#998766
+   background-color: rgb(111, 59, 131);
+   text-decoration-color: rgb(255, 255, 255);
+   justify-items: center;
 }
+
+#pq{
+    background-color: rgb(224, 215, 185);
+}
+
+#qnd {
+    background-color:rgb(224, 215, 185);
+}
+
+#eql {
+    background-color: rgb(224, 215, 185);
+}
+
+#eul {
+    background-color: rgb(224, 215, 185);
+}
+
+ul a {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+nav ul {
+    display:flex;
+    align-items: flex-start;
+}
+
+nav ul li {
+    list-style-type: none;
+    padding: 1rem;
+ }
+
+
+
+ header {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
+
+ p {
+    color: rgba(255, 255, 255, 0.726);
+ }
