@@ -2,13 +2,13 @@
 
 /* Variáveis */
 :root {
-   background-color: rgb(111, 59, 131);
+   background-color: rgba(133, 31, 90, 0.747);
    text-decoration-color: rgb(255, 255, 255);
    justify-items: center;
 }
 
 #pq{
-    background-color: rgb(224, 215, 185);
+    background-color: rgb(233, 221, 184);
 }
 
 #qnd {
@@ -24,7 +24,7 @@
 }
 
 ul a {
-    color: aliceblue;
+    color: rgb(253, 253, 253);
     text-decoration: none;
 }
 
@@ -48,5 +48,21 @@ nav ul li {
  }
 
  p {
-    color: rgba(255, 255, 255, 0.726);
+    color: rgb(194, 135, 9);
+ }
+
+ h1 {
+    color: rgba(252, 252, 252, 0.801)
+ }
+
+ h2 {
+    color: rgb(185, 82, 177);
+ }
+
+ h3 {
+    color: rgb(224, 57, 158);
+ }
+ 
+ li {
+    color: rgb(160, 111, 4, 0.726);
  }
