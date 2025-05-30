@@ -53,6 +53,7 @@ nav ul li {
 
  h1 {
     color: rgba(252, 252, 252, 0.801)
+    
  }
 
  h2 {
@@ -67,4 +68,13 @@ nav ul li {
     color: rgb(160, 111, 4, 0.726);
  }
 
+ section {
+    display: grid;
+    place-items: center
+    align-items: center
+    min-heught: 100vh;
+
+ }
+    
+ 
  
